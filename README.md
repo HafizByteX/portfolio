@@ -55,3 +55,19 @@ The goal is to have a simple yet elegant online presence that reflects my passio
 
 ## 📁 Folder Structure
 
+
+
+---
+
+## 📬 Contact
+
+Feel free to reach out for collaborations, freelance work, or any inquiries:
+
+- 📧 Email: **abdulhafizy315@gmail.com**  
+- 💬 Telegram: [@Aj1357A](https://t.me/Aj1357A)
+
+---
+
+⭐ *Give this project a star if you liked it or found it inspiring!*
+
+
